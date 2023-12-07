@@ -6,7 +6,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Day3Part1 {
-    static int sum;
     static String aboveLine;
     static String middleLine;
     static String belowLine;
